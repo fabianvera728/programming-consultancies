@@ -1,0 +1,12 @@
+{'codigo': 1111, 'nombre': 'Pepito Perez', 'edad': 21, 'sexo': 'M', 'notas': [5.0, 5.0]}
+{'codigo': 2222, 'nombre': 'Juan Jaimes', 'edad': 18, 'sexo': 'M', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 3572, 'nombre': 'Juanita Jimenez', 'edad': 25, 'sexo': 'F', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 1895, 'nombre': 'Alfonso Pelaez', 'edad': 25, 'sexo': 'M', 'notas': [5.0, 5.0, 5.0]}
+{'codigo': 4832, 'nombre': 'Ramiro Velez', 'edad': 25, 'sexo': 'M', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 4004, 'nombre': 'Pedro Gonzales', 'edad': 25, 'sexo': 'M', 'notas': [5.0, 5.0, 5.0]}
+{'codigo': 6023, 'nombre': 'Carol Lizcano', 'edad': 25, 'sexo': 'F', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 2518, 'nombre': 'Julian Sandoval', 'edad': 25, 'sexo': 'M', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 6141, 'nombre': 'Estefany Gelves', 'edad': 25, 'sexo': 'F', 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 3021, 'nombre': 'Danitza Villamizar', 'edad': 25, 'sexo': 'F', 'notas': [5.0, 5.0, 5.0]}
+{'codigo': '123', 'nombre': 'Juan', 'sexo': 'M', 'edad': 20, 'notas': [5.0, 5.0, 5.0, 5.0]}
+{'codigo': 123, 'nombre': 'Juan', 'sexo': 'M', 'edad': 20, 'notas': [5.0, 5.0, 5.0, 5.0]}

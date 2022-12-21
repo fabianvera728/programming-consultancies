@@ -1,0 +1,11 @@
+{"codigo":1111,"nombre":"Pepito Perez","edad":21,"sexo":"M","notas":[3.5, 4.0]}
+{"codigo":2222,"nombre":"Juan Jaimes","edad":18,"sexo":"M","notas":[2.5, 5.0, 3.0, 4.4]}
+{"codigo":3572,"nombre":"Juanita Jimenez","edad":25,"sexo":"F","notas":[3.7, 5.0, 2.1, 3.7]}
+{"codigo":1895,"nombre":"Alfonso Pelaez","edad":25,"sexo":"M","notas":[2.5,  3.2, 3.4]}
+{"codigo":4832,"nombre":"Ramiro Velez","edad":25,"sexo":"M","notas":[3.0, 3.9, 1.7, 2.8]}
+{"codigo":8921,"nombre":"Maria Gutierrez","edad":25,"sexo":"F","notas":[5.0, 4.4, 2.2, 3.3]}
+{"codigo":4004,"nombre":"Pedro Gonzales","edad":25,"sexo":"M","notas":[4.8, 3.6, 4.0]}
+{"codigo":6023,"nombre":"Carol Lizcano","edad":25,"sexo":"F","notas":[2.9, 3.0, 2.2, 3.3]}
+{"codigo":2518,"nombre":"Julian Sandoval","edad":25,"sexo":"M","notas":[1.8, 4.0, 3.3, 3.7]}
+{"codigo":6141,"nombre":"Estefany Gelves","edad":25,"sexo":"F","notas":[3.5, 3.6, 3.5, 2.6]}
+{"codigo":3021,"nombre":"Danitza Villamizar","edad":25,"sexo":"F","notas":[ 3.8, 3.8, 4.2]}
